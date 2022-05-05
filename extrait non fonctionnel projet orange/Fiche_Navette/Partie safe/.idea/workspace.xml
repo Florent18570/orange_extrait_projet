@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a62c83b-d11e-4127-99ee-b996a1e606d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/accueil.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/accueil.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="http://localhost/accueil.php" id="5ebc1b40-206c-4dad-921a-3149cffefcba" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lKzssZlZJoL5iMA6YGD1OKPR95" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Accueil" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Unnamed" start_url="http://localhost/accueil.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a62c83b-d11e-4127-99ee-b996a1e606d1" name="Default Changelist" comment="" />
+      <created>1607360781578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607360781578</updated>
+      <workItem from="1607360782692" duration="661000" />
+      <workItem from="1607414970541" duration="13507000" />
+      <workItem from="1607517963199" duration="8000" />
+      <workItem from="1607517982602" duration="8033000" />
+      <workItem from="1607586204849" duration="20571000" />
+      <workItem from="1607677248977" duration="8998000" />
+      <workItem from="1607939329681" duration="7163000" />
+      <workItem from="1608018068067" duration="26462000" />
+      <workItem from="1608111186347" duration="11950000" />
+      <workItem from="1608191447289" duration="5199000" />
+      <workItem from="1608540836705" duration="8568000" />
+      <workItem from="1608629569322" duration="10459000" />
+      <workItem from="1608715725944" duration="5010000" />
+      <workItem from="1608726243175" duration="7358000" />
+      <workItem from="1609143629345" duration="17202000" />
+      <workItem from="1609247615390" duration="3621000" />
+      <workItem from="1609318172990" duration="4613000" />
+      <workItem from="1609747983941" duration="12839000" />
+      <workItem from="1609833981659" duration="6232000" />
+      <workItem from="1609851127860" duration="8000" />
+      <workItem from="1609851143936" duration="61000" />
+      <workItem from="1609851220783" duration="7621000" />
+      <workItem from="1609921881152" duration="2034000" />
+      <workItem from="1610481290214" duration="26000" />
+      <workItem from="1610481324177" duration="658000" />
+      <workItem from="1617003656012" duration="1856000" />
+      <workItem from="1617005647531" duration="919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
